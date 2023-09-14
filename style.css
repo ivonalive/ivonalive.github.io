@@ -3,19 +3,20 @@ img {
    display: block;
    margin-left: auto;
    margin-right: auto
+   border: 5px solid #555;
 }
 
 .exp-header {
   text-align: center;
-  text-transform: uppercase;
+  text-transform:uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 }
 
 body {
-  background-color: goldenrod;
-  color: ivory;
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/271/821/desktop-wallpaper-cv-backgrounds-cv.jpg");
+  color: goldenrod;
   font-family: Verdana, sans-serif;
   margin: 10% 10%
 }
@@ -23,4 +24,3 @@ body {
 h1 {
   text-align: center
 }
-
