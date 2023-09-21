@@ -17,6 +17,7 @@ img {
 
 body {
   background-image: url("https://e1.pxfuel.com/desktop-wallpaper/271/821/desktop-wallpaper-cv-backgrounds-cv.jpg");
+  background-repeat: round;
   color: goldenrod;
   font-family: Verdana, sans-serif;
   margin: 10% 10%
@@ -25,4 +26,5 @@ body {
 h1 {
   text-align: center
 }
+
 
